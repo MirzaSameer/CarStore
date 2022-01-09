@@ -9,7 +9,7 @@
     app:cardElevation="10dp">
 
 <LinearLayout
-    android:padding="10dp"
+    android:padding="11dp"
     android:layout_width="match_parent"
         android:layout_height="120dp"
         android:background="@color/card"
